@@ -1,0 +1,8 @@
+/Users/fei/Documents/DotNet/blackjack/bin/Debug/netcoreapp1.1/blackjack.deps.json
+/Users/fei/Documents/DotNet/blackjack/bin/Debug/netcoreapp1.1/blackjack.runtimeconfig.json
+/Users/fei/Documents/DotNet/blackjack/bin/Debug/netcoreapp1.1/blackjack.runtimeconfig.dev.json
+/Users/fei/Documents/DotNet/blackjack/bin/Debug/netcoreapp1.1/blackjack.dll
+/Users/fei/Documents/DotNet/blackjack/bin/Debug/netcoreapp1.1/blackjack.pdb
+/Users/fei/Documents/DotNet/blackjack/obj/Debug/netcoreapp1.1/blackjack.AssemblyInfo.cs
+/Users/fei/Documents/DotNet/blackjack/obj/Debug/netcoreapp1.1/blackjack.dll
+/Users/fei/Documents/DotNet/blackjack/obj/Debug/netcoreapp1.1/blackjack.pdb
